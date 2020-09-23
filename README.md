@@ -15,7 +15,7 @@ journal={arXiv preprint arXiv:2004.08955},
 year={2020}
 }
 ```
-**Cutmix: Regularization Strategy to Train Strong Classifiers with Localizable Features
+**Cutmix: Regularization Strategy to Train Strong Classifiers with Localizable Features**
 https://github.com/clovaai/CutMix-PyTorch
 
 ## environment requirement
