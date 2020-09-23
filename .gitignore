@@ -1,0 +1,6 @@
+/data/*
+/data_aug_sample/*
+/runs/*
+/logs/*
+/pretrained_weight/*
+train_cfg.txt
